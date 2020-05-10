@@ -1,0 +1,64 @@
+<resources>
+    <string name="GooglgAPIKey">AIzaSyA1T1sB0syevZxTNiUel_SxjnnZsxV5wx4</string>
+    <string name="app_name">Shater</string>
+    <string name="start">Get Started</string>
+    <string name="cutomer_btn">Customer</string>
+    <string name="provider_btn">Service Provider</string>
+    <string name="SignIn">Sign In</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="Setimage">Set Certificate</string>
+    <string name="name">Name</string>
+    <string name="email">E-mail</string>
+    <string name="password">PassWord</string>
+    <string name="phone">Phone Number</string>
+    <string name="experience">Experience</string>
+    <string name="chooseType">CHOOSE THE ACCOUNT TYPE</string>
+    <string name="accept">Accept</string>
+    <string name="accepted">Accepted</string>
+    <string name="vieworder">View Order</string>
+    <string name="pand">Pending</string>
+    <string name="decline">Decline</string>
+    <string name="commservice">Service Provider Rating :</string>
+    <string name="commsuggest">Your Suggested price </string>
+    <string name="selectService">SELECT A SERVICE</string>
+    <string name="decor">Home Decor</string>
+    <string name="maintenance">Repair</string>
+    <string name="painting">Painting</string>
+    <string name="parking">Parking Shades</string>
+    <string name="electricity">Electricity</string>
+    <string name="technology">Technology</string>
+    <string name="titleRequest">REQUEST FROM</string>
+    <string name="titleselectcateg">Select the service Category</string>
+    <string name="time">Time :</string>
+    <string name="date">Date :</string>
+    <string name="titledesc">Add your problem description</string>
+    <string name="addimage">Add Image</string>
+    <string name="addvideo">Add video</string>
+    <string name="titlelocation">Enter your Location</string>
+    <string name="confirm">Confirm</string>
+    <string name="make">Make an Offer</string>
+    <string name="viewPro">View Provider</string>
+    <string name="displaycustomerRequ"> There is no new requests  From Customer </string>
+    <string name="displaycustomeroffer">Waiting for service Providers offers </string>
+    <string name="displayserviceoffer">Waiting for customer response to you offers</string>
+    <string name="displayprovider">There is no new applicants </string>
+    <string name="accepte">Accept</string>
+    <string name="refuse">Refuse</string>
+    <string name="order">Order Accepted</string>
+    <string name="pay">Procced To Pay</string>
+    <string name="setRate">Rate Service Provider</string>
+    <string name="submit">Submit</string>
+    <string name="c_number">Card Number</string>
+    <string name="c_name">Name</string>
+    <string name="cw">CVV</string>
+    <string name="expiry">Expiry date</string>
+    <string name="enterprice">Enter your suggested price</string>
+    <string name="send_offer">Send Offer</string>
+    <string name="cust_location">customer Location</string>
+    <string name="done_myoffer">Done with Service</string>
+    <string name="logout">LogOut</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

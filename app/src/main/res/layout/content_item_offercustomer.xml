@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:layout_marginBottom="20dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:background="@color/backgroundapp2"
+        >
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="match_parent"
+            android:src="@mipmap/provider_used" />
+
+
+        <LinearLayout
+            android:layout_weight="1"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            android:layout_margin="5dp">
+            <TextView
+                android:id="@+id/tv_name_offer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/WHITE"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:id="@+id/tv_price_offer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/WHITE"
+                android:layout_gravity="center"
+                />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/commservice"
+                android:textSize="10dp"
+                android:textColor="@color/WHITE"
+                android:paddingLeft="3dp"/>
+            <RatingBar
+                android:id="@+id/rb_provider_offer"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:numStars="5"
+                android:layout_gravity="center"
+                style="?android:attr/ratingBarStyleIndicator"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+            <Button
+                android:id="@+id/btn_accept"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:text="@string/accept"
+                android:textSize="10dp"
+                android:gravity="center"
+                android:textColor="@color/WHITE"
+                android:background="@drawable/ground_buttonaccept"
+                android:layout_marginBottom="10dp"/>
+            <Button
+                android:id="@+id/btn_decline"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="5dp"
+                android:gravity="center"
+                android:textSize="10dp"
+                android:text="@string/decline"
+                android:textColor="@color/WHITE"
+                android:background="@drawable/ground_buttondecline"/>
+
+        </LinearLayout>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,4 @@
+#Sun Apr 05 02:41:44 GMT+03:00 2020
+base.0=C\:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

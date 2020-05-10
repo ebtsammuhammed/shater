@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".fragment.OfferServiceFragment"
+    android:background="@color/WHITE">
+
+    <TextView
+        android:id="@+id/tv_displayserviceoffer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="@string/displayserviceoffer"
+        android:textStyle="bold"
+        android:textColor="@color/backgroundapp2"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id = "@+id/rc_offerService"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars ="vertical"
+        android:padding="5dp"
+        android:visibility="gone">
+
+    </androidx.recyclerview.widget.RecyclerView>
+
+</FrameLayout>

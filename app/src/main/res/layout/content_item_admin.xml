@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginTop="20dp"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"
+        android:background="@color/backgroundapp2"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginBottom="2dp">
+
+        <ImageView
+            android:layout_width="100dp"
+            android:layout_height="120dp"
+            android:src="@mipmap/provider_used"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp"/>
+
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_gravity="center">
+
+
+            <TextView
+                android:id="@+id/tv_nameprovider"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:textColor="@color/WHITE"
+                android:text="@string/name"
+                android:layout_marginBottom="3dp"/>
+
+            <TextView
+                android:id="@+id/tv_catagoryprovider"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingLeft="3dp"
+                android:text="Catagory"
+                android:textSize="15dp"
+                android:gravity="center"
+                android:textColor="@color/WHITE" />
+            <TextView
+                android:id="@+id/tv_exper"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:paddingLeft="3dp"
+                android:text="Experience"
+                android:textSize="15dp"
+                android:gravity="center"
+                android:textColor="@color/WHITE" />
+
+
+
+
+        </LinearLayout>
+
+
+        <Button
+
+            android:id="@+id/btn_viewprovider"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="5dp"
+            android:text="@string/viewPro"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:textColor="@color/WHITE"
+            android:background="@drawable/ground_useredit"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

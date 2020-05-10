@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".fragment.RequestFragment">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:textColor="@color/backgroundapp2"
+            android:text="@string/titleRequest"
+            android:layout_marginTop="30dp"
+            android:textStyle="bold"
+            android:textSize="30dp"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="left"
+            android:textColor="@color/backgroundapp2"
+            android:text="@string/titleselectcateg"
+            android:layout_marginTop="40dp"
+            android:layout_marginLeft="10dp"
+            android:textSize="20dp" />
+
+       <com.shawnlin.numberpicker.NumberPicker
+           android:id="@+id/np_category"
+           android:layout_width="100dp"
+           android:layout_height="100dp"
+           android:layout_marginLeft="30dp"
+           android:layout_marginTop="10dp"
+           android:layout_gravity="left"
+           app:np_dividerColor="@color/black"
+           app:np_textColor="@color/black"
+           app:np_textSize="20dp"
+           app:np_max="6"
+           app:np_min="1" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_gravity="left"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/titledesc"
+            android:textColor="@color/backgroundapp2"/>
+
+        <EditText
+            android:id="@+id/edt_description"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/ground_useredit"
+            android:layoutDirection="ltr"
+            android:gravity="start"
+            android:textColor="@color/black"
+            />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp">
+
+            <Button
+                android:id="@+id/btn_addimage"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ground_userbutton"
+                android:textColor="@color/WHITE"
+                android:text="@string/addimage"
+                android:gravity="center"
+                android:padding="5dp"
+                />
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="or"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                android:textColor="@color/backgroundapp2"
+                android:textSize="15dp"
+                />
+            <Button
+                android:id="@+id/btn_addvideo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/ground_userbutton"
+                android:textColor="@color/WHITE"
+                android:text="@string/addvideo"
+                android:gravity="center"
+                android:padding="5dp"
+                />
+        </LinearLayout>
+
+        <ImageView
+            android:id="@+id/img_add"
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:visibility="gone"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"/>
+        <VideoView
+            android:id="@+id/vi_add"
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:visibility="gone"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:layout_gravity="left"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:text="@string/titlelocation"
+            android:textColor="@color/backgroundapp2"/>
+
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/mv_location"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"/>
+
+        <Button
+            android:id="@+id/btn_confirm"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ground_userbutton"
+            android:textColor="@color/WHITE"
+            android:text="@string/confirm"
+            android:gravity="center"
+            android:layout_gravity="center"
+            android:layout_marginTop="20dp"
+            android:padding="10dp"
+            />
+
+    </LinearLayout>
+</ScrollView>
+
+</FrameLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ViewAcceptMyOffer">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="5dp"
+            android:layout_marginTop="40dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:background="@color/backgroundapp2">
+
+            <ImageView
+                android:layout_width="120dp"
+                android:layout_height="120dp"
+                android:src="@mipmap/customer_used" />
+
+            <LinearLayout
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_margin="10dp">
+                <TextView
+                    android:id="@+id/tv_name_myoffer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/WHITE"
+                    android:layout_gravity="center"
+                    android:hint="Name"
+                    android:gravity="center"/>
+                <TextView
+                    android:id="@+id/tv_description_myoffer"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/WHITE"
+                    android:layout_gravity="center"
+                    android:hint="problem Description"
+                    android:gravity="center"
+                    />
+                <TextView
+                    android:id="@+id/tv_category_myoffer"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:hint="category"
+                    android:textColor="@color/WHITE"
+                    android:layout_gravity="center"
+                    android:gravity="center"
+                    android:paddingLeft="3dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/btn_acceptorder"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginTop="30dp"
+            android:text="@string/cust_location"
+            android:padding="10dp"
+            android:textColor="@color/backgroundapp2"/>
+        <com.google.android.gms.maps.MapView
+            android:id="@+id/map_myoffer"
+            android:layout_width="120dp"
+            android:layout_height="120dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"/>
+        <Button
+
+            android:id="@+id/btn_done"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="10dp"
+            android:text="@string/done_myoffer"
+            android:gravity="center"
+            android:textColor="@color/WHITE"
+            android:background="@drawable/ground_userbutton"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"/>
+
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

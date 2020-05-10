@@ -1,0 +1,562 @@
+[
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_request.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_painting_image.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\painting_image.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_build_srvice.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_build_srvice.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_offer_service.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\fragment_offer_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_account_circle.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_account_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_date.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_input.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_input.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_date.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_date.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ground_buttonaccept.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable\\ground_buttonaccept.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_build_srvice.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_build_srvice.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_filter_list.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_filter_list.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_electricity_image.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\electricity_image.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_request_edti.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_request_edti.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_request_edti.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_request_edti.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_list_offer.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_list_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_item_makecustomer.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\content_item_makecustomer.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_request_edti.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_request_edti.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_account_circle.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_account_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_user.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_user.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_build_srvice.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_build_srvice.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_provider_used.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\provider_used.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_build_srvice.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_build_srvice.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_filter_list.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_filter_list.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_account_of_admin.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_view_account_of_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_account_circle.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_account_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_location_service.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_location_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signin.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_signin.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_date.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_admin.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_info.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_pick.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable-v24\\ic_pick.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_time.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_input.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_input.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_time.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_time.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ground_userbutton.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable\\ground_userbutton.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_parking_image.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\parking_image.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_build_srvice.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_build_srvice.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_list_offer.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_list_offer.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home_service.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_home_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_filter_list.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_filter_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_search.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable\\background_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_time.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_make_offer.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_make_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_account_circle.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_account_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_list_offer.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_list_offer.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_info.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_info.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu_cust.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\menu\\bottom_nav_menu_cust.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_request_edti.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_request_edti.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_request_edti.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_request_edti.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_technology_image.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\technology_image.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_info.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_accept_my_offer.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_view_accept_my_offer.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_item_offerservice.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\content_item_offerservice.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_input.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_input.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_account_circle.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_account_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_request_edti.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_request_edti.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_proceed_disable.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable-v24\\bg_proceed_disable.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_account_circle.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_account_circle.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_date.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_list_offer.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_list_offer.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_input.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_input.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_customer.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\fragment_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_date.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_customer.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\customer.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_input.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_input.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_view_offer_provider.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_view_offer_provider.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_request.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\fragment_request.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_request_edti.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_request_edti.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_search.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_filter_list.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_filter_list.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_list_offer.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_list_offer.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_logo_image.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\logo_image.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable_background_button.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable\\background_button.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_offer_customer.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\fragment_offer_customer.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_list_offer.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_list_offer.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_account_circle.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_account_circle.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_date.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_build_srvice.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_build_srvice.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ground_useredit.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable\\ground_useredit.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_maintenance_image.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\maintenance_image.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_account.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\fragment_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_signup.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home2.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_home2.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_info.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_bg_proceed_enable.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable-v24\\bg_proceed_enable.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_date.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_date.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_get_location.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable-v24\\get_location.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_time.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_item_admin.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\content_item_admin.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_content_item_offercustomer.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\content_item_offercustomer.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_customer_used.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\customer_used.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_filter_list.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_filter_list.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_build_srvice.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_build_srvice.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_list_offer.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_list_offer.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_provider.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\provider.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_input.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_input.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_filter_list.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_filter_list.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_search.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_search.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_filter_list.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_filter_list.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_info.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_info.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_homedecor_image.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-hdpi\\homedecor_image.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_time.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_custom_ratingbar_in_dialog.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\custom_ratingbar_in_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_time.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_time.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ground_buttondecline.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable\\ground_buttondecline.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_service.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\fragment_service.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_search.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_button_selector.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\drawable-v24\\button_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_input.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_input.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_cradit.xml.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\src\\main\\res\\layout\\activity_cradit.xml"
+    },
+    {
+        "merged": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_search.png.flat",
+        "source": "C:\\Users\\razan\\Desktop\\Shater\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    }
+]

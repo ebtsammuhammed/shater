@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.ViewAccountOfAdminActivity"
+    android:background="@color/WHITE">
+<ScrollView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/provider_used"
+            android:layout_marginBottom="20dp"
+            />
+
+        <TextView
+            android:id="@+id/tv_name_pro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginBottom="10dp"
+            android:hint="Name of user"
+            android:layout_gravity="center"
+            android:gravity="center" />
+        <TextView
+            android:id="@+id/tv_email_pro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginBottom="10dp"
+            android:hint="Email of user"
+            android:layout_gravity="center"
+            android:gravity="center" />
+        <TextView
+            android:id="@+id/tv_phone_pro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginBottom="10dp"
+            android:hint="Phone Number of user"
+            android:layout_gravity="center"
+            android:gravity="center" />
+        <TextView
+            android:id="@+id/tv_catagory_pro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginBottom="10dp"
+            android:hint="Category of user"
+            android:layout_gravity="center"
+            android:gravity="center" />
+        <TextView
+            android:id="@+id/tv_exper_pro"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/black"
+            android:layout_marginBottom="20dp"
+            android:hint="Experience of user"
+            android:layout_gravity="center"
+            android:gravity="center" />
+        <ImageView
+            android:id="@+id/img_cert"
+            android:layout_width="150dp"
+            android:layout_height="150dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="5dp"
+            android:visibility="gone"/>
+        <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_gravity="center">
+        <Button
+            android:id="@+id/btn_Accepte"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ground_buttonaccept"
+            android:textColor="@color/WHITE"
+            android:text="@string/accepte"
+            android:padding="20dp"
+            android:gravity="center"
+            android:layout_marginRight="5dp"/>
+        <Button
+            android:id="@+id/btn_refuse"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/ground_buttondecline"
+            android:textColor="@color/WHITE"
+            android:text="@string/refuse"
+            android:padding="20dp"
+            android:gravity="center"
+            android:layout_marginLeft="5dp"/>
+
+</LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>
+
+</RelativeLayout>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity.SignUpActivity"
+    android:background="@color/WHITE">
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="20dp"
+            android:layout_centerInParent="true">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/backgroundapp2"
+                android:text="PAYMENT"
+                android:textSize="20dp"
+                android:layout_gravity="center"
+                android:layout_marginBottom="30dp"/>
+
+            <EditText
+                android:id="@+id/number_card_edt"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/ground_useredit"
+                android:hint="@string/c_number"
+                android:textColor="@color/black"
+                android:textDirection="ltr"
+                android:layoutDirection="ltr"
+                android:paddingLeft="20dp"
+                android:layout_marginBottom="10dp"
+                />
+            <EditText
+                android:id="@+id/c_name_edt"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/ground_useredit"
+                android:hint="@string/c_name"
+                android:textColor="@color/black"
+                android:textDirection="ltr"
+                android:layoutDirection="ltr"
+                android:paddingLeft="20dp"
+                android:layout_marginBottom="10dp"
+                />
+            <EditText
+                android:id="@+id/cw_edt"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/ground_useredit"
+                android:hint="@string/cw"
+                android:textColor="@color/black"
+                android:textDirection="ltr"
+                android:layoutDirection="ltr"
+                android:paddingLeft="20dp"
+                android:layout_marginBottom="10dp"
+                />
+            <EditText
+                android:id="@+id/expiry_edt"
+                android:layout_width="match_parent"
+                android:layout_height="50dp"
+                android:background="@drawable/ground_useredit"
+                android:hint="@string/expiry"
+                android:textColor="@color/black"
+                android:textDirection="ltr"
+                android:layoutDirection="ltr"
+                android:paddingLeft="20dp"
+                android:layout_marginBottom="10dp"
+                />
+
+
+
+            <Button
+                android:id="@+id/btn_submit"
+                android:layout_width="100dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:background="@drawable/ground_userbutton"
+                android:text="@string/submit"
+                android:textColor="@color/WHITE"
+                android:textSize="15dp"
+                android:layout_marginTop="10dp"/>
+
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>
